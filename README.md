@@ -7,7 +7,9 @@ This repository is the central hub for the **Field 3D PTV** system: a complete m
 Most components (datasets, hardware files, and software) are hosted externally. Use the links below to access each part. If you have any questions, please contact Yue Weng at [wengy@umn.edu](mailto:wengy@umn.edu).
 
 ---
-
+![system](pics/field_3d_ptv_schematic.png)
+![hardwares](pics/hardwares.png)
+---
 ## **1. User Manual**
 
 The [**User Manual (.pdf)**](Field3DPTV_v1p0_notes.pdf) provides a complete guide to the Field3DPTV system, including:  
