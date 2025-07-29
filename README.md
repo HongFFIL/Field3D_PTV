@@ -2,7 +2,7 @@
 
 This repository is the central hub for the **Field 3D PTV** system: a complete modular 3D Particle Tracking Velocimetry (PTV) solution, developed and maintained by the **[Flow Field Imaging Laboratory](https://www.jiaronghonglab.com/team), University of Minnesota**.  
 
-**Funding:** This work was supported by the National Science Foundation under grants **NSF-MRI-2018658**.  
+**Funding:** This work was supported by the National Science Foundation under NSF Major Research Instrumentation program (**NSF-MRI-2018658**)
 
 Most components (datasets, hardware files, and software) are hosted externally. Use the links below to access each part. If you have any questions, please contact Yue Weng at [wengy@umn.edu](mailto:wengy@umn.edu).
 
