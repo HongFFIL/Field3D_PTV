@@ -10,7 +10,7 @@ Most components (datasets, hardware files, and software) are hosted externally. 
 
 ## **1. User Manual**
 
-The [**User Manual (.pptx)**](Field3DPTV_v1p0.pptx) provides a complete guide to the Field3DPTV system, including:  
+The [**User Manual (.pdf)**](Field3DPTV_v1p0_notes.pdf) provides a complete guide to the Field3DPTV system, including:  
 
 - **Product description:** Overview of the hardware and software components  
 - **Hardware:** Imaging modules, central computer, calibration modules, and optional lighting and mounting systems  
