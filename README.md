@@ -14,7 +14,7 @@ The [**User Manual (.pptx)**](Field3DPTV_v1p0.pptx) provides a complete guide to
 
 - **Product description:** Overview of the hardware and software components  
 - **Hardware:** Imaging modules, central computer, calibration modules, and optional lighting and mounting systems  
-- **Software:** Remote camera control, calibration (easyWand), and the OpenLPT tracking pipeline  
+- **Software:** Remote camera control, calibration ([easyWand5](https://biomech.web.unc.edu/wand-calibration-tools/)), and the [OpenLPT](https://github.com/JHU-NI-LAB/OpenLPT_Shake-The-Box) tracking pipeline  
 - **Image acquisition procedure:** Setting up the system, camera alignment, and synchronized image collection  
 - **Data processing procedure:** From calibration marker extraction to particle trajectory reconstruction and visualization  
 - **Demonstration cases:** Step-by-step examples for Confetti Settling, Snow Settling, and Pollen Dispersion, including calibration and tracking results  
