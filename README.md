@@ -9,6 +9,7 @@ Most components (datasets, hardware files, and software) are hosted externally. 
 ---
 ![system](pics/schematic.png)
 ![hardwares](pics/hardware.png)
+
 ---
 ## **1. User Manual**
 
@@ -24,7 +25,6 @@ The [**User Manual (.pdf)**](Field3DPTV_v1p0_notes.pdf) provides a complete guid
 Please read the User Manual carefully before using the demonstration cases or software modules.  
 
 ---
-
 
 ## **2. Hardware** 
 
